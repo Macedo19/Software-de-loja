@@ -1,0 +1,13 @@
+PRECO;DESCRICAO;QUANTIDADE
+870.00;AMD Radeon RX 550;2
+1499.00;Nvidia GeForce GTX 1650;3
+1999.00;Nvidia GeForce GTX 1660;5
+2593.43;Nvidia GeForce GTX 1660 Super;4
+2999.49;Nvidia GeForce GTX 1660 TI;5
+3060.33;Nvidia GeForce GTX 2060;8
+5010.10;Nvidia GeForce GTX 2070 Super;6
+7162.57;Nvidia GeForce GTX 2080 Super;4
+13006.05;Nvidia GeForce GTX 2080 TI;3
+1819.60;AMD Radeon RX 580;2
+
+

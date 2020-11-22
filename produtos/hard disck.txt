@@ -1,0 +1,3 @@
+preco;descricao;quantidade
+399.19;HD 1000GB Sata 3;3
+799.39;HD 2000GB Sata 3;5

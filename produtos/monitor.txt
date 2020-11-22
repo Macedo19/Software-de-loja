@@ -1,0 +1,10 @@
+PRECO;DESCRICAO;QUANTIDADE
+869.00;Monitor 21.5 Led Preto;10
+1597.89;Monitor 23.5 FullHD;3
+1789.00;Monitor 23.6 FullHD;2
+1054.00;Monitor 23.8 Philips;5
+1540.00;Monitor 25 Ultrawide;6
+2600.29;Monitor 27 4k IPS;1
+901.55;Monitor 25 Gamer LG;7
+1789.00;Monitor 23.6 FullHD;5
+

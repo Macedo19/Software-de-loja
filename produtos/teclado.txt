@@ -1,0 +1,5 @@
+PRECO;DESCRICAO;QUANTIDADE
+80.03;Teclado Action TC-200;2
+399.19;Fortrek Black Mecanico;1
+104.59;Teclado Semimecanico Bright;10
+69.90;Teclado Semimecanico Gaming;6

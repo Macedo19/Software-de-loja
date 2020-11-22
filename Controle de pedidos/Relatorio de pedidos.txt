@@ -1,0 +1,12 @@
+ Identficador da compra: 1  CPF: 88137|  Quantidade: 2  identificador do Produto  6     Data: 2020-11-13
+
+ Identficador da compra: 2  CPF: 85|  Quantidade: 2  identificador do Produto  6     Data: 2020-11-13
+
+ Identficador da compra: 3  CPF: 856|  Quantidade: 2  identificador do Produto  70     Data: 2020-11-13
+
+ Identficador da compra: 4  CPF: 85|  Quantidade: 4  identificador do Produto  20     Data: 2020-11-13
+
+ Identficador da compra: 6  CPF: 812|  Quantidade: 1  identificador do Produto  61     Data: 2020-11-18
+
+ Identficador da compra: 7  CPF: 7|  Quantidade: 1  identificador do Produto  2     Data: 2020-11-18
+

@@ -1,0 +1,15 @@
+PRECO;DESCRICAO;QUANTIDADE
+200.00;Evolut Gammer;2
+250.12;TDagger;1
+239.00;Kmex Hawk;3
+289.00;Kmex Boreas;4
+369.00;Kmex Blades;6
+333.22;Aerocool Menace;6
+333.22;Aerocool Bolt;5
+359.17;Kmex Atlantis;3
+559.04;Kmex Strife;4
+265.90;Predator;5
+399.90;BlueCase;9
+485.01;Kmex CG;2
+299.84;Redragon Wheel;3
+ 

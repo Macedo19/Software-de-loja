@@ -1,0 +1,5 @@
+PRECO;DESCRICAO;QUANTIDADE
+369.00;HeadSet Hyperx Cloud;4
+319.90;HeadSet Razer Kraken;3
+159.90;HeadSet Redragon Scylla;6
+105.90;HeadSet Havit H2232D;2

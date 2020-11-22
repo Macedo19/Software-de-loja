@@ -1,0 +1,8 @@
+PRECO;DESCRICAO;QUANTIDADE
+30.01;Cooler 120MM Led Azul;3
+30.01;Cooler 120MM Led Vermelho;5
+30.01;Cooler 120MM Led Amarelo;5
+30.01;Cooler 120MM Led Verde;2
+400.90;WaterCooler Corsair;4
+1799.90;WaterCooler NZXT;6
+339.90;WaterCooler DeepCool;2

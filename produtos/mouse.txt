@@ -1,0 +1,5 @@
+PRECO;DESCRICAO;QUANTIDADE
+159.90;Mouse Gamer Redragon;2
+199.90;Mouse Gamer HyperX;9
+168.00;Mouse Gamer Razer Abyssus;8
+61.90;Mouse Gamer Havit RGB;12
